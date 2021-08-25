@@ -14,7 +14,7 @@
 
 > 🏆 237 Contributions in the Year 2021
  > 
-> 📦 16.1 MB Used in Github's Storage 
+> 📦 16.2 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,6 +70,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2021
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
 </p>
