@@ -49,10 +49,10 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -69,6 +69,6 @@ C#                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
 </p>
