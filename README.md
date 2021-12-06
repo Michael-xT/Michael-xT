@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 262 Contributions in the Year 2021
+> 🏆 263 Contributions in the Year 2021
  > 
 > 📦 16.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 33 Private Repositories  
  > 
@@ -49,10 +49,10 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  24 hrs 1 min        █████████████████████████   100.0%
+VS Code                  18 hrs 56 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  24 hrs 1 min        █████████████████████████   100.0%
+Windows                  18 hrs 56 mins      █████████████████████████   100.0%
 
 ```
 
@@ -69,6 +69,6 @@ C#                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 </p>
