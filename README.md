@@ -49,10 +49,10 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -69,6 +69,6 @@ C#                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 00:27:49 UTC
+ Last Updated on 07/02/2022 00:23:41 UTC
 <!--END_SECTION:waka-->
 </p>
