@@ -10,6 +10,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2058%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 5 Contributions in the Year 2022
@@ -49,10 +51,10 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -69,6 +71,6 @@ C#                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2022 00:32:34 UTC
+ Last Updated on 14/03/2022 00:34:49 UTC
 <!--END_SECTION:waka-->
 </p>
