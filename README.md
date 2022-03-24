@@ -3,13 +3,13 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/.github/topguntocat.png" width=500>
  <br>
-<img src="https://komarev.com/ghpvc/?username=michael-xt" alt="michael-xt" /> 
+<img src="https://komarev.com/ghpvc/?username=michael-xt&style=for-the-badge" alt="michael-xt" /> 
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-xt&layout=compact&theme=dark&show_icons=true" alt="michael-xt" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-xt&show_icons=true&theme=dark&show_icons=true" alt="michael-xt" /></p>
 
-<details align="center"><summary>📊 Some data</summary>
+<details align="left"><summary>📊 Some data about myself</summary>
 <p>
 
 <!--START_SECTION:waka-->
