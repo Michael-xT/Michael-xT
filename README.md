@@ -54,10 +54,10 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,6 +78,6 @@ C#                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 00:50:37 UTC
+ Last Updated on 01/04/2022 00:40:13 UTC
 <!--END_SECTION:waka-->
 </p>
