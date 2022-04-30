@@ -13,6 +13,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2021%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 41 Contributions in the Year 2022
@@ -76,6 +78,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 00:41:05 UTC
+ Last Updated on 30/04/2022 00:48:59 UTC
 <!--END_SECTION:waka-->
 </p>
