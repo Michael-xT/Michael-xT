@@ -13,7 +13,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,6 +78,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 00:54:01 UTC
+ Last Updated on 23/08/2022 00:56:45 UTC
 <!--END_SECTION:waka-->
 </p>
