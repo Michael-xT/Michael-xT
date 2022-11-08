@@ -54,10 +54,11 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             ████████████████░░░░░░░░░   64.01% 
+WebStorm                 8 mins              █████████░░░░░░░░░░░░░░░░   35.99%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.0%
 
 ```
 
@@ -78,6 +79,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 00:43:14 UTC
+ Last Updated on 08/11/2022 00:46:12 UTC
 <!--END_SECTION:waka-->
 </p>
