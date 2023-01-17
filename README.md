@@ -54,10 +54,10 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,6 +78,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2023 01:31:31 UTC
+ Last Updated on 17/01/2023 01:36:03 UTC
 <!--END_SECTION:waka-->
 </p>
