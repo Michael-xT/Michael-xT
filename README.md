@@ -46,10 +46,10 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-VS Code                  22 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -57,6 +57,6 @@ Windows                  22 hrs 6 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2023 00:45:42 UTC
+ Last Updated on 28/07/2023 00:47:13 UTC
 <!--END_SECTION:waka-->
 </p>
