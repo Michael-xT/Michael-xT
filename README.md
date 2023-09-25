@@ -57,6 +57,6 @@ Windows                  20 hrs 15 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 00:43:26 UTC
+ Last Updated on 25/09/2023 00:41:47 UTC
 <!--END_SECTION:waka-->
 </p>
