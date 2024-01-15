@@ -57,6 +57,6 @@ Mac                      12 hrs 3 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2024 00:48:34 UTC
+ Last Updated on 15/01/2024 00:46:19 UTC
 <!--END_SECTION:waka-->
 </p>
