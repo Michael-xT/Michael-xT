@@ -19,6 +19,8 @@
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
+> 🏆 5 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -44,11 +46,10 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-VS Code                  18 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 26 mins      █████████████████████████   98.38 % 
-Windows                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Mac                      19 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -56,6 +57,6 @@ Windows                  18 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2024 00:46:54 UTC
+ Last Updated on 29/04/2024 00:44:01 UTC
 <!--END_SECTION:waka-->
 </p>
