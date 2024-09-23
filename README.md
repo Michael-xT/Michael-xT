@@ -13,7 +13,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C306%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C306%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,11 +46,11 @@ Sunday                   102 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-VS Code                  30 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 33 mins      ████████████████████████░   96.69 % 
-Windows                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Mac                      32 hrs 4 mins       █████████████████████████   99.98 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **Timeline**
@@ -58,6 +58,6 @@ Windows                  1 hr                █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 01:00:46 UTC
+ Last Updated on 23/09/2024 00:56:37 UTC
 <!--END_SECTION:waka-->
 </p>
