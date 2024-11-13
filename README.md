@@ -57,6 +57,6 @@ Windows                  4 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 00:55:23 UTC
+ Last Updated on 13/11/2024 00:57:31 UTC
 <!--END_SECTION:waka-->
 </p>
