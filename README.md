@@ -19,6 +19,8 @@
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -55,6 +57,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 00:59:57 UTC
+ Last Updated on 02/02/2025 00:58:51 UTC
 <!--END_SECTION:waka-->
 </p>
