@@ -19,8 +19,6 @@
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -58,6 +56,6 @@ Windows                  4 hrs 32 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 01:04:32 UTC
+ Last Updated on 07/05/2025 01:05:08 UTC
 <!--END_SECTION:waka-->
 </p>
