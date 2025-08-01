@@ -13,6 +13,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%207%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 4.2 MB Used in GitHub's Storage 
@@ -25,11 +27,36 @@
  > 
 > 🔑 35 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 01:13:58 UTC
+ Last Updated on 01/08/2025 01:21:14 UTC
 <!--END_SECTION:waka-->
 </p>
