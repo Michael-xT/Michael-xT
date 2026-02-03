@@ -13,6 +13,8 @@
 <p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C401%20hrs%2023%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 4.3 MB Used in GitHub's Storage 
@@ -30,6 +32,6 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 01:27:22 UTC
+ Last Updated on 03/02/2026 01:27:49 UTC
 <!--END_SECTION:waka-->
 </p>
