@@ -27,11 +27,36 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 01:29:16 UTC
+ Last Updated on 20/02/2026 01:25:35 UTC
 <!--END_SECTION:waka-->
 </p>
