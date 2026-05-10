@@ -13,7 +13,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -27,11 +27,36 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+🔥 Editors: 
+VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      8 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 02:18:01 UTC
+ Last Updated on 10/05/2026 02:19:51 UTC
 <!--END_SECTION:waka-->
 </p>
