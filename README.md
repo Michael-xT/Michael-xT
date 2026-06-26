@@ -27,11 +27,37 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+🔥 Editors: 
+VS Code                  5 hrs 41 mins       ███████████████████████░░   93.68 % 
+Claude Code              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+
+💻 Operating System: 
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 02:44:29 UTC
+ Last Updated on 26/06/2026 02:41:53 UTC
 <!--END_SECTION:waka-->
 </p>
