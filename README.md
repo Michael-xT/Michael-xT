@@ -13,7 +13,7 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -27,38 +27,11 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-🔥 Editors: 
-VS Code                  4 hrs 8 mins        ███████████████████░░░░░░   75.11 % 
-Claude Code              56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Antigravity Desktop      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-
-💻 Operating System: 
-Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 02:32:38 UTC
+ Last Updated on 07/07/2026 02:28:40 UTC
 <!--END_SECTION:waka-->
 </p>
