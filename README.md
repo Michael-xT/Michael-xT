@@ -13,7 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C564%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,13 +32,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Tuesday                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Saturday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -52,11 +54,17 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:15:38 UTC
+ Last Updated on 28/07/2026 01:55:48 UTC
 <!--END_SECTION:waka-->
 </p>
