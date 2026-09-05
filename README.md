@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -29,59 +29,11 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-🔥 Editors: 
-Codex Vscode             17 mins             ███████████████░░░░░░░░░░   59.49 % 
-VS Code                  12 mins             ██████████░░░░░░░░░░░░░░░   40.51 % 
-
-💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 29 mins (98.69%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 191,653 Input Tokens, 10,769 Output Tokens
-
-💵 $1.42 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 02:21:47 UTC
+ Last Updated on 05/09/2026 02:22:07 UTC
 <!--END_SECTION:waka-->
 </p>
