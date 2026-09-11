@@ -48,33 +48,33 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Codex Vscode             3 hrs 7 mins        ███████████████████████░░   90.91 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Antigravity Desktop      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Codex Vscode             2 hrs 38 mins       ██████████████████████░░░   89.42 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Antigravity Desktop      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 56 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,166,588 Input Tokens, 85,387 Output Tokens
+🔤 834,248 Input Tokens, 57,913 Output Tokens
 
-💵 $11.41 Estimated AI Cost This Week
+💵 $8.12 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 83 AI Prompts
+🧠 6 AI Sessions, 58 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 237 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 302 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -83,6 +83,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:29:40 UTC
+ Last Updated on 11/09/2026 02:23:50 UTC
 <!--END_SECTION:waka-->
 </p>
