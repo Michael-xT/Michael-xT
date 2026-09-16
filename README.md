@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,32 +48,32 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Codex Vscode             5 hrs 8 mins        ████████████████████████░   95.61 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Codex Vscode             5 hrs 4 mins        ███████████████████████░░   92.18 % 
+VS Code                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (96.55%)
+⏱ AI Coding Time: 5 hrs 14 mins (94.99%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
-🔤 840,771 Input Tokens, 43,421 Output Tokens
+🔤 852,909 Input Tokens, 41,791 Output Tokens
 
-💵 $14.05 Estimated AI Cost This Week
+💵 $16.61 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 63 AI Prompts
+🧠 10 AI Sessions, 64 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 306 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -83,6 +83,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 02:49:38 UTC
+ Last Updated on 16/09/2026 02:45:09 UTC
 <!--END_SECTION:waka-->
 </p>
