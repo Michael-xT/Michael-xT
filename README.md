@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C423%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2020%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -29,16 +29,16 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 ```
 
 
@@ -48,34 +48,35 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Codex Vscode             3 hrs 19 mins       ██████████████████████░░░   88.54 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Codex Vscode             3 hrs 22 mins       ███████████████████░░░░░░   75.87 % 
+VS Code                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Claude Code              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (92.67%)
+⏱ AI Coding Time: 4 hrs 5 mins (92.0%)
 
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
+✍️ 413 lines written by AI, 23 lines written by hand (94.72% AI-written)
 
-🔤 569,149 Input Tokens, 28,077 Output Tokens
+🔤 860,040 Input Tokens, 79,698 Output Tokens
 
-💵 $13.79 Estimated AI Cost This Week
+💵 $17.54 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 43 AI Prompts
+🧠 11 AI Sessions, 54 AI Prompts
 
+Sonnet                   416 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 373 characters per prompt
+🤖 AI-Driven — 94.72% of written lines came from AI
+📚 Verbose Prompter — average 5,512 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 32.36% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -83,6 +84,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 02:35:41 UTC
+ Last Updated on 19/09/2026 02:35:50 UTC
 <!--END_SECTION:waka-->
 </p>
