@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C424%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C424%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -29,16 +29,16 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 ```
 
 
@@ -48,35 +48,35 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Codex Vscode             3 hrs 52 mins       ████████████████░░░░░░░░░   62.30 % 
-Claude Code              1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Claude Code              2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.88 % 
+Codex Vscode             2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.08 % 
+VS Code                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (93.86%)
+⏱ AI Coding Time: 4 hrs 35 mins (93.45%)
 
-✍️ 599 lines written by AI, 25 lines written by hand (95.99% AI-written)
+✍️ 626 lines written by AI, 25 lines written by hand (96.16% AI-written)
 
-🔤 1,724,659 Input Tokens, 248,213 Output Tokens
+🔤 1,530,427 Input Tokens, 256,381 Output Tokens
 
-💵 $33.58 Estimated AI Cost This Week
+💵 $32.63 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 63 AI Prompts
+🧠 11 AI Sessions, 50 AI Prompts
 
-Sonnet                   611 lines           █████████████████████████   100.00 % 
+Sonnet                   643 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.99% of written lines came from AI
-📚 Verbose Prompter — average 4,743 characters per prompt
+🤖 AI-Driven — 96.16% of written lines came from AI
+📚 Verbose Prompter — average 5,804 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.63% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -84,6 +84,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 02:46:38 UTC
+ Last Updated on 21/09/2026 02:48:34 UTC
 <!--END_SECTION:waka-->
 </p>
