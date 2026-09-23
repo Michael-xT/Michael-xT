@@ -29,61 +29,11 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-🔥 Editors: 
-Claude Code              2 hrs 15 mins       ██████████████░░░░░░░░░░░   54.29 % 
-Codex Vscode             1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
-VS Code                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-
-💻 Operating System: 
-Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 54 mins (94.05%)
-
-✍️ 626 lines written by AI, 25 lines written by hand (96.16% AI-written)
-
-🔤 1,378,661 Input Tokens, 255,571 Output Tokens
-
-💵 $27.32 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 55 AI Prompts
-
-Sonnet                   643 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.16% of written lines came from AI
-📚 Verbose Prompter — average 5,287 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 97.63% of changed lines were hand-edited
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 02:45:18 UTC
+ Last Updated on 23/09/2026 02:45:20 UTC
 <!--END_SECTION:waka-->
 </p>
