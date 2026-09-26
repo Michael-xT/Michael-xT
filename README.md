@@ -29,16 +29,16 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
 
@@ -48,35 +48,35 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              2 hrs 14 mins       ████████████████░░░░░░░░░   62.46 % 
-Codex Vscode             1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.62 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Claude Code              1 hr 45 mins        ███████████████░░░░░░░░░░   60.27 % 
+Codex Vscode             1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.90 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 Operating System: 
-Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (95.44%)
+⏱ AI Coding Time: 2 hrs 49 mins (97.22%)
 
-✍️ 702 lines written by AI, 984 lines written by hand (41.64% AI-written)
+✍️ 232 lines written by AI, 978 lines written by hand (19.17% AI-written)
 
-🔤 1,325,576 Input Tokens, 264,713 Output Tokens
+🔤 979,033 Input Tokens, 197,866 Output Tokens
 
-💵 $25.44 Estimated AI Cost This Week
+💵 $20.20 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 53 AI Prompts
+🧠 4 AI Sessions, 37 AI Prompts
 
-Sonnet                   719 lines           █████████████████████████   100.00 % 
+Sonnet                   246 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.64% of written lines came from AI
-📚 Verbose Prompter — average 5,469 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.17% of written lines came from AI
+📝 Concise Prompter — average 151 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 99.11% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -84,6 +84,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:54:17 UTC
+ Last Updated on 26/09/2026 02:54:58 UTC
 <!--END_SECTION:waka-->
 </p>
