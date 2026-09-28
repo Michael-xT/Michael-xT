@@ -48,35 +48,34 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              31 mins             ████████████░░░░░░░░░░░░░   47.80 % 
-Codex Vscode             31 mins             ████████████░░░░░░░░░░░░░   47.70 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Codex Vscode             31 mins             ███████████████████████░░   91.38 % 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (95.5%)
+⏱ AI Coding Time: 31 mins (91.38%)
 
-✍️ 30 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 114,414 Input Tokens, 29,351 Output Tokens
+🔤 76,849 Input Tokens, 13,160 Output Tokens
 
-💵 $4.16 Estimated AI Cost This Week
+💵 $1.10 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 28 AI Prompts
+🧠 1 AI Sessions, 19 AI Prompts
 
-Sonnet                   35 lines            █████████████████████████   100.00 % 
+Sonnet                   12 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -84,6 +83,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 02:57:16 UTC
+ Last Updated on 28/09/2026 02:56:50 UTC
 <!--END_SECTION:waka-->
 </p>
