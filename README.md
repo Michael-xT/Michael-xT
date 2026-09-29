@@ -32,13 +32,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
 
@@ -48,34 +48,16 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Codex Vscode             31 mins             ███████████████████████░░   91.38 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (91.38%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 76,849 Input Tokens, 13,160 Output Tokens
-
-💵 $1.10 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 19 AI Prompts
-
-Sonnet                   12 lines            █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 183 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
@@ -83,6 +65,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:56:50 UTC
+ Last Updated on 29/09/2026 03:38:17 UTC
 <!--END_SECTION:waka-->
 </p>
