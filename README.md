@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,35 +48,36 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              2 hrs 43 mins       ███████████████████████░░   92.36 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Claude Code              8 hrs 1 min         ██████████████████████░░░   88.91 % 
+VS Code                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (96.11%)
+⏱ AI Coding Time: 8 hrs 39 mins (95.96%)
 
-✍️ 3,821 lines written by AI, 5 lines written by hand (99.87% AI-written)
+✍️ 10,277 lines written by AI, 50 lines written by hand (99.52% AI-written)
 
-🔤 1,061,381 Input Tokens, 270,193 Output Tokens
+🔤 4,614,635 Input Tokens, 944,821 Output Tokens
 
-💵 $50.99 Estimated AI Cost This Week
+💵 $169.35 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 41 AI Prompts
+🧠 7 AI Sessions, 136 AI Prompts
 
-Sonnet                   3,865 lines         █████████████████████████   100.00 % 
+Sonnet                   10,608 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 14,150 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.52% of written lines came from AI
+📚 Verbose Prompter — average 4,694 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.55% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -84,6 +85,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 03:23:10 UTC
+ Last Updated on 01/10/2026 03:30:23 UTC
 <!--END_SECTION:waka-->
 </p>
