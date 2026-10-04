@@ -13,9 +13,9 @@
 <p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -29,16 +29,16 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -48,36 +48,36 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              16 hrs              ███████████████████████░░   92.25 % 
-VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Claude Code              16 hrs 26 mins      ██████████████████████░░░   89.92 % 
+VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      17 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 47 mins (96.79%)
+⏱ AI Coding Time: 17 hrs 17 mins (94.54%)
 
-✍️ 16,860 lines written by AI, 63 lines written by hand (99.63% AI-written)
+✍️ 17,078 lines written by AI, 63 lines written by hand (99.63% AI-written)
 
-🔤 7,151,437 Input Tokens, 1,602,030 Output Tokens
+🔤 7,213,904 Input Tokens, 1,622,196 Output Tokens
 
-💵 $281.69 Estimated AI Cost This Week
+💵 $282.75 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 295 AI Prompts
+🧠 15 AI Sessions, 303 AI Prompts
 
-Sonnet                   17,376 lines        █████████████████████████   100.00 % 
+Sonnet                   17,594 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 2,385 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 0.62% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,333 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -85,6 +85,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 03:14:10 UTC
+ Last Updated on 04/10/2026 03:42:08 UTC
 <!--END_SECTION:waka-->
 </p>
