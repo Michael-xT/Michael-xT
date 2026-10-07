@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,13 +32,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Tuesday                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Saturday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -48,36 +48,35 @@ Sunday                   74 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              16 hrs 26 mins      ██████████████████████░░░   89.92 % 
-VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Claude Code              13 hrs 56 mins      ██████████████████████░░░   89.59 % 
+VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      18 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 17 mins (94.54%)
+⏱ AI Coding Time: 14 hrs 40 mins (94.32%)
 
-✍️ 17,078 lines written by AI, 63 lines written by hand (99.63% AI-written)
+✍️ 13,257 lines written by AI, 58 lines written by hand (99.56% AI-written)
 
-🔤 7,213,904 Input Tokens, 1,622,196 Output Tokens
+🔤 6,225,004 Input Tokens, 1,366,601 Output Tokens
 
-💵 $282.75 Estimated AI Cost This Week
+💵 $236.20 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 303 AI Prompts
+🧠 14 AI Sessions, 269 AI Prompts
 
-Sonnet                   17,594 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   13,773 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 2,333 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -85,6 +84,6 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 04:14:56 UTC
+ Last Updated on 07/10/2026 03:40:28 UTC
 <!--END_SECTION:waka-->
 </p>
