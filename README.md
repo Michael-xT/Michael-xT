@@ -29,11 +29,60 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+🔥 Editors: 
+Claude Code              12 hrs 26 mins      ███████████████████████░░   93.60 % 
+VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+
+💻 Operating System: 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 39 mins (95.27%)
+
+✍️ 3,281 lines written by AI, 14 lines written by hand (99.58% AI-written)
+
+🔤 3,348,131 Input Tokens, 945,195 Output Tokens
+
+💵 $127.07 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 188 AI Prompts
+
+Sonnet                   3,349 lines         ████████████████████████░   97.98 % 
+Claude-Code              69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.58% of written lines came from AI
+📄 Detailed Prompter — average 561 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 03:54:59 UTC
+ Last Updated on 09/10/2026 04:04:38 UTC
 <!--END_SECTION:waka-->
 </p>
