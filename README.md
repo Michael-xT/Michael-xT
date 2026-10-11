@@ -32,13 +32,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 86 commits          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Friday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Saturday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -48,33 +48,32 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              5 hrs 45 mins       ███████████████████████░░   91.78 % 
-VS Code                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Claude Code              13 mins             █████████████████████████   99.01 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (92.99%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 1,310 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 82 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,422,101 Input Tokens, 560,134 Output Tokens
+🔤 498,101 Input Tokens, 19,132 Output Tokens
 
-💵 $55.71 Estimated AI Cost This Week
+💵 $1.99 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 55 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Sonnet                   1,243 lines         ████████████████████████░   94.74 % 
-Claude-Code              69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Sonnet                   82 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 769 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -83,6 +82,6 @@ Claude-Code              69 lines            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 03:45:20 UTC
+ Last Updated on 11/10/2026 03:18:44 UTC
 <!--END_SECTION:waka-->
 </p>
