@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C474%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,25 +48,25 @@ Sunday                   104 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 🔥 Editors: 
-Claude Code              8 hrs 38 mins       █████████████████████░░░░   85.59 % 
-VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Claude Code              7 hrs 58 mins       ██████████████████████░░░   87.26 % 
+VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 
 💻 Operating System: 
-Mac                      10 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 23 mins (93.1%)
+⏱ AI Coding Time: 8 hrs 26 mins (92.38%)
 
 ✍️ 45,035 lines written by AI, 233 lines written by hand (99.49% AI-written)
 
-🔤 11,937,072 Input Tokens, 726,195 Output Tokens
+🔤 11,106,972 Input Tokens, 732,951 Output Tokens
 
-💵 $123.01 Estimated AI Cost This Week
+💵 $109.66 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 126 AI Prompts
+🧠 17 AI Sessions, 128 AI Prompts
 
 Opus                     41,104 lines        ███████████████████████░░   91.04 % 
 Sonnet                   4,043 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
@@ -74,8 +74,8 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.49% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 443 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
@@ -84,6 +84,6 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Michael-xT/Michael-xT/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 02:39:22 UTC
+ Last Updated on 26/10/2026 02:37:45 UTC
 <!--END_SECTION:waka-->
 </p>
